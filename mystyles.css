@@ -1,3 +1,9 @@
 body{background: skyblue;}
 p{font-style: italic;
 color: blue;}
+.work-title {
+  background: red;
+}
+.work-title2{
+  background: orange;
+}
